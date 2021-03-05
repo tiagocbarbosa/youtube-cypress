@@ -1,3 +1,7 @@
+Tempo do vídeo: 26:20 (https://www.youtube.com/watch?v=gTRMuWCp8mE)
+
+------------
+
 <h1 align="center">Cypress: do zero ao reporte </h1>
 <p align="center">Um projeto para aprender sobre o Cypress no Youtube</p>
 
